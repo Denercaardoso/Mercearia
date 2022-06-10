@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercearia", "Mercearia\Mercearia.csproj", "{43188330-6C77-419D-98BC-59BF5C4BFAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43188330-6C77-419D-98BC-59BF5C4BFAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43188330-6C77-419D-98BC-59BF5C4BFAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43188330-6C77-419D-98BC-59BF5C4BFAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43188330-6C77-419D-98BC-59BF5C4BFAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F053A1EA-6026-4926-B08D-F175E2BCA982}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\bin\Debug\net5.0\Mercearia.exe
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\bin\Debug\net5.0\Mercearia.deps.json
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\bin\Debug\net5.0\Mercearia.runtimeconfig.json
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\bin\Debug\net5.0\Mercearia.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\bin\Debug\net5.0\Mercearia.dll
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\bin\Debug\net5.0\ref\Mercearia.dll
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\bin\Debug\net5.0\Mercearia.pdb
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.dll
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\ref\Mercearia.dll
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.pdb
+C:\Users\Admin\Desktop\Mercearia\Mercearia\Mercearia\obj\Debug\net5.0\Mercearia.genruntimeconfig.cache
