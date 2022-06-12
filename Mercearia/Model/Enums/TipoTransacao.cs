@@ -1,6 +1,6 @@
 ﻿namespace Mercearia.Model.Enums
 {
-    public enum TipoTransacao
+    public public enum TipoTransacao
     {
         COMPRA = 1,
         VENDA = 2

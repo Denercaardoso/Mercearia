@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Mercearia.Model
 {
-    class Carrinho
+    public class Carrinho
     {
         public int Id { get; set; }
         public DateTime DataTransacao { get; private set; }

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Mercearia.Model;
+using Mercearia.View;
+using System;
 
 namespace Mercearia
 {
@@ -10,8 +12,11 @@ namespace Mercearia
 
             void MenuPrincipal()
             {
-
+                ProdutosView produtosView = new();
                 bool RepeticoaoMenu = true;
+                Produto produto = new();
+
+
                 while (RepeticoaoMenu)
                 {
                     Console.WriteLine("MENU MERCEARIA");
@@ -25,7 +30,7 @@ namespace Mercearia
                     switch (opcao)
                     {
                         case "1":
-                            //CadastrarProduto();
+                            produtosView.CadastrarProtuto();
                             break;
 
                         case "2":

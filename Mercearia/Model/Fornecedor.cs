@@ -2,7 +2,7 @@
 
 namespace Mercearia.Model
 {
-    class Fornecedor
+    public class Fornecedor
     {
         public int Id { get; set; }
         public string RazaoSocial { get; set; }
